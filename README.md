@@ -1,7 +1,7 @@
 # Leetcode Solutions
 Welcome to my Leetcode solutions repository! This repository contains my solutions to various Leetcode problems, organized by problem categories and difficulty levels.
 
-## About
+## About Repo
 This repository is a collection of my solutions to problems on Leetcode. Solving these problems helps me improve my coding skills, logical thinking, and understanding of algorithms and data structures.
 
 ## Languages Used
