@@ -4,7 +4,7 @@ Welcome to my Leetcode solutions repository! This repository contains my solutio
 ## About Repo
 This repository is a collection of my solutions to problems on Leetcode. Solving these problems helps me improve my coding skills, logical thinking, and understanding of algorithms and data structures.
 
-## Languages Used
+## Language Used
 I primarily use the JAVA Programming Languages for my solutions
 
 ## Structure
