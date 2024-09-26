@@ -11,22 +11,20 @@ class Solution {
         map.put('M', 1000);
 
         int ans = 0;
-        // Loop through the string
+       
         for (int i = 0; i < s.length(); i++) {
             int first = map.get(s.charAt(i));
             
-            // Check if the next character exists and is larger than the current one
             if (i + 1 < s.length()) {
                 int second = map.get(s.charAt(i + 1));
                 
                 if (first < second) {
                     ans += (second - first);
-                    i++; // Skip the next character since it's part of the pair
                 } else {
                     ans += first;
                 }
             } else {
-                ans += first; // Add the last character value
+                ans += first; 
             }
         }
         
